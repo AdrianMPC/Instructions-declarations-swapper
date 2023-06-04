@@ -1,0 +1,11 @@
+ pokemonbe.POKEMONID.ToString() = ID_TEXT.Text ;
+ pokemonbe.IMAGE_DIR.ToString() = URLBOX.Text ;
+ pokemonbe.NAME.ToString() = Nombre_text.Text ;
+ pokemonbe.HP.ToString() = HPtext.Text ;
+ pokemonbe.ATTACK.ToString() = atk_text.Text ;
+ pokemonbe.DEFENSE.ToString() = def_text.Text ;
+ pokemonbe.SPEED_ATTACK.ToString() = spd_atk_text.Text ;
+ pokemonbe.SPEED_DEFENSE.ToString() = spd_def_text.Text ;
+ pokemonbe.SPEED.ToString() = speed_text.Text ;
+ pokemonbe.STATE = state_box.SelectedText ;
+ pokemonbe.IMAGE_DIR = pictureBox1.ImageLocation ;
