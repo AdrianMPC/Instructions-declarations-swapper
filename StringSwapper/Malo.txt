@@ -1,3 +1,0 @@
-HPtext.Text  pokemonbe.HP.ToString();
-spd_atk_text.Text = pokemonbe.SPEED_ATTACK.ToString()
-spd_def_text.Text = pokemonbe.SPEED_DEFENSE.ToString();
